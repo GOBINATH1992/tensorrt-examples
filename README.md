@@ -6,7 +6,7 @@ TensorRT examples (Python/C++)
 ## List of samples
 
 |Pose estimation|
-|:--|:--|
+|:--|
 |[TensorFLow Lite to TensorRT PoseNet](python/posenet/README.md)
 |![posenet](images/posenet.gif)|
 

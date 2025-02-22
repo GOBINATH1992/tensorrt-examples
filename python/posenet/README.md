@@ -65,7 +65,8 @@ Copy `posenet_mobilenet_float_075_1_default_1.onnx` and check model.
 ```
 
 If you want to convert to FP16 model, add --fp16 to the argument of convert_onnxgs2trt.py
-``
+
+```
 python3 convert_onnxgs2trt.py \
     --model /posenet_mobilenet_float_075_1_default_1.onnx \
     --output posenet_mobilenet_float_075_1_default_1_fp16.trt \
