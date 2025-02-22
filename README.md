@@ -16,7 +16,7 @@ TensorRT examples (Python/C++)
 
 ## LICENSE
 The following files are licensed under [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT).
-- [common.py](posenet/common.py)
+- [common.py](python/posenet/common.py)
   
 ## Reference
 - [TensorRT](https://github.com/NVIDIA/TensorRT)
